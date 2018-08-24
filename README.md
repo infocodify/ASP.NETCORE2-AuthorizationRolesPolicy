@@ -1,4 +1,6 @@
 # ASP.NETCORE2-AuthorizationRolesPolicy
+#### Note: Start learning https://github.com/infocodify/ASP.NETCORE2-IdentityAuthorization and then the actual tutorial
+
 Allow access to .Net Core 2 Web Application by Roles and Policy
 
 1.  Create Policy in Sartup.cs file
@@ -153,5 +155,3 @@ namespace IdentityAuth
 </html>
 
 ```
-
-#### Note: Start learning https://github.com/infocodify/ASP.NETCORE2-IdentityAuthorization and then the actual tutorial
