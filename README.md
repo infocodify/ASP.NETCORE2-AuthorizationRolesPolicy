@@ -153,3 +153,5 @@ namespace IdentityAuth
 </html>
 
 ```
+
+#### Note: Start learning https://github.com/infocodify/ASP.NETCORE2-IdentityAuthorization and then the actual tutorial
