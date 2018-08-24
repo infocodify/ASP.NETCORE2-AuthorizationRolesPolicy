@@ -1,5 +1,5 @@
 # ASP.NETCORE2-AuthorizationRolesPolicy
-#### Note: Start learning https://github.com/infocodify/ASP.NETCORE2-IdentityAuthorization and then the actual tutorial
+#### Note: Start learning https://github.com/infocodify/ASP.NETCORE2-IdentityAuthorization and then the following tutorial
 
 Allow access to .Net Core 2 Web Application by Roles and Policy
 
